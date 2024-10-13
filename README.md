@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Nahom Temam 👋
 
-<!--
-**NahomTM/NahomTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer with a BSc in Software Engineering from AASTU. My experience spans CMS, ERP systems, and creating an AI-powered accessibility platform for visually impaired students. I'm currently interested in and working on blockchain, IoT, and distributed systems, constantly exploring new technologies and solutions in these areas.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Projects:
+- Blockchain & Distributed Systems: Building decentralized solutions with XRP Ledger.
+- IoT: Developing software-hardware integrations using Arduino.
+- Learning Rust: Diving into systems programming to enhance blockchain development.
+
+
+🌱 Goals:
+- I'm focused on advancing my skills in Rust and contributing to scalable blockchain systems for decentralized applications.
+
+
+📫 How to Reach Me:
+Feel free to get in touch via email: nahom6297@gmail.com
